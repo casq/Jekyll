@@ -9,4 +9,4 @@ Uploading into Azure Storage
 - Need to have Azure Storage extension in VSCode
 - Use command palette if you need to sign out of an existing subscription - Cmd-Shift-P
 - Create storage account in Azure and enable static website - Data Management -> Static Website
-- This creates a $web blob to which you can upload the contents of your local Jekyll _site folder
+- This creates a $web blob to which your Azure DevOps pipeline will upload the contents of your local Jekyll _site folder
