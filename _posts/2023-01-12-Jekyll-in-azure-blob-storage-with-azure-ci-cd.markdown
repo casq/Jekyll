@@ -6,7 +6,11 @@ categories: Jekyll GettingStarted
 ---
 Initial notes
 
-The goal of this project is to deploy a Jekyll website to Azure blob storage using Azure DevOps CI/CD.
+The goal of this project is to deploy a Jekyll website to Azure blob storage using Azure DevOps CI/CD, and be able to edit the site locally using VSCode
+
+VSCode is available here:
+
+<a href="https://code.visualstudio.com/Download">https://code.visualstudio.com/Download</a>
 
 The theme I am using is Plainwhite, available from:
 
@@ -25,9 +29,9 @@ The first steps are:
     - Create Release pipeline
     - Enable CI/CD so build and release pipelines are run whenever code changes are committed
 
-Then look at domain name and SSL
+Then look at domain name and SSL.
 
-Then look at IaC to go from nothing to fully deployed in Azure
+Then look at IaC to go from a blank slate to a fully deployed website in Azure.
 
 Other notes:
 
