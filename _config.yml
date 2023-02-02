@@ -25,7 +25,7 @@ plainwhite:
     - post
   navigation:
     - title: Home
-      url: "/resume"
+      url: "/"
     - title: About
       url: "/about"
   # generate social links in footer
