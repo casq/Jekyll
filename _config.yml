@@ -23,17 +23,19 @@ plainwhite:
     #- home
     - page
     - post
-  # navigation:
-  #  - title: Resume
-  #    url: "/resume"
+  navigation:
+    - title: Home
+      url: "/resume"
+    - title: About
+      url: "/about"
   # generate social links in footer
   social_links:
     github:  casq
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
+#header_pages:
+ #- about.md
 
 # Build settings
 theme: plainwhite
