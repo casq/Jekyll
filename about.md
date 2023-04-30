@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
-Name: Andy Davies	  		
+Name: Andy Davies  		
 Nationality: British  
-
 
 SC Status: Cleared & Current  
 
@@ -36,7 +35,6 @@ VM backups
 Azure SQL/ElasticPools  
 SPF/DKIM/DMARC  
 
-
 ## Recent projects:
 Used Terraform to automate deployment of IaC (VMs/vNets/NSGs)
 PowerShell scripted migration of ~2500 users from on-prem Mitel to Teams Voice.
@@ -45,7 +43,7 @@ Configured SPF, DKIM and DMARC for multiple domains.
 
 ## Roles
 
-# Cloud Infrastructure Engineer – April 2021 to date
+## Cloud Infrastructure Engineer – April 2021 to date
 Responsibilities:  
 Responding to Service Requests and Incidents  
 Troubleshooting complex issues  
@@ -57,7 +55,7 @@ Monitoring backups (VMs and SQL/DBs)
 ASM and ARM VM administration  
 RDS collections and Remote Apps  
 
-# Systems Administrator – May 2016 to April 2021
+## Systems Administrator – May 2016 to April 2021
 Responsibilities:  
 Development and maintenance of a complete network of servers, workstations and networking infrastructure, including Active Directory/Azure AD, S2S VPN, AD Connect, SSO, MFA and SSPRS  
 Administrating O365 subscription  
