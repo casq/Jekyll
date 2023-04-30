@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Resume Challenge"
-date:   2023-02-02 00:03:36 +0530
+date:   2023-04-30 15:40:00 +0000
 categories: Jekyll CloudResumeChallenge
 ---
 
@@ -19,13 +19,11 @@ Jekyll themes are tightly coupled to Jekyll the site generator so this is the en
 
 The steps are:
 
-- Fork Plainwhite in GitHub
-
-- Create Azure storage account and enable static website.
-
-- Create Azure DevOps project
-    - Import code into Repo
+- Set up storage account in Azure and enable static website
+- Create an Azure DevOps organisation and project
+    - Apply for parallelism grant from MS
+    - Import Jekyll code into repository
     - Add build.yml
     - Create Build pipeline
     - Create Release pipeline
-    - Enable CI/CD so build and release pipelines are run whenever code changes are committed
+- Sync code locally
