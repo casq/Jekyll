@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 Name: Andy Davies			
 Nationality: British
