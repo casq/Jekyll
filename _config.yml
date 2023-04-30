@@ -8,6 +8,7 @@ permalink: /:title/
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+
 sass:
   sass_dir: _sass
 plainwhite:
