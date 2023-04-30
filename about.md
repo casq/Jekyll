@@ -5,6 +5,7 @@ title: About
 Name: Andy Davies			
 Nationality: British
 
+
 SC Status: Cleared & Current
 
 Microsoft Certified: Azure Administrator Associate (AZ-104)
