@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Name: Andy Davies  		
+Name: Andy Davies  
 Nationality: British  
 
 SC Status: Cleared & Current  
