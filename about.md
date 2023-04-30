@@ -8,6 +8,8 @@ Nationality: British
 SC Status: Cleared & Current  
 
 Microsoft Certified: Azure Administrator Associate (AZ-104)  
+Microsoft Certified: Azure Security Engineer (AZ-500)  
+
 Microsoft Training: Developing Solutions for Azure (AZ-204)  
 
 ## Key Skills:
@@ -36,14 +38,14 @@ Azure SQL/ElasticPools
 SPF/DKIM/DMARC  
 
 ## Recent projects:
-Used Terraform to automate deployment of IaC (VMs/vNets/NSGs)
-PowerShell scripted migration of ~2500 users from on-prem Mitel to Teams Voice.
-Creation of Enterprise Apps/App Registrations for SAML SSO.
-Configured SPF, DKIM and DMARC for multiple domains.
+Used Terraform to automate deployment of IaC (VMs/vNets/NSGs)  
+PowerShell scripted migration of ~2500 users from on-prem Mitel to Teams Voice  
+Creation of Enterprise Apps/App Registrations for SAML SSO  
+Configured SPF, DKIM and DMARC for multiple domains  
 
-## Roles
+## Roles  
 
-## Cloud Infrastructure Engineer – April 2021 to date
+## Cloud Infrastructure Engineer – Since April 2021
 Responsibilities:  
 Responding to Service Requests and Incidents  
 Troubleshooting complex issues  
