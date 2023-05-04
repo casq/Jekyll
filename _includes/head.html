@@ -6,7 +6,7 @@
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 <title>{{ page.title | default: site.title }}</title>
 {% seo %}
-<script type="text/javascript" src="/assets/js/main.js"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 {% if site.plainwhite.dark_mode %}
 <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
 {% endif %}
