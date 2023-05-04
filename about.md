@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+
+<script type="text/javascript" src="{{ "/assets/js/main.js" | relative_url }}"></script>
+
 Name: Andy Davies  
 Nationality: British  
 
