@@ -5,7 +5,6 @@ title: About
 
 # Andy Davies  
 * Nationality: British  
-* SC Status: Cleared & Current  
 
 ### Certificates and Training
 
