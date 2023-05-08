@@ -13,15 +13,9 @@ The end goal is to be able to edit the site locally, sync changes to an Azure De
 
 This builds on the work of others, most notably:
 
-> Matt Allford on YT:  
-> [https://www.youtube.com/watch?v=MX-7rVL7088](https://www.youtube.com/watch?v=MX-7rVL7088){:target="_blank"}  
-
-> Sam Cogan:  
-> [https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/](https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/){:target="_blank"}  
-
-> Gunnar Peipman:  
-> [https://gunnarpeipman.com/jekyll-azure-static-website/](https://gunnarpeipman.com/jekyll-azure-static-website/){:target="_blank"}  
-
+> Matt Allford on YT: [https://www.youtube.com/watch?v=MX-7rVL7088](https://www.youtube.com/watch?v=MX-7rVL7088){:target="_blank"}  
+> Sam Cogan: [https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/](https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/){:target="_blank"}  
+> Gunnar Peipman: [https://gunnarpeipman.com/jekyll-azure-static-website/](https://gunnarpeipman.com/jekyll-azure-static-website/){:target="_blank"}
 
 ### Pre-requisites:
 
