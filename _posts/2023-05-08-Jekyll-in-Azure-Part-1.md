@@ -5,6 +5,8 @@ date:   2023-05-07 19:45:00 +0000
 categories: Jekyll CloudResumeChallenge HowTo
 ---
 
+This is the first in a series of posts around deploying a Jekyll site to Azure storage.  
+
 The end goal is to be able to edit the site locally, sync changes to an Azure DevOps repository and have CI/CD pipelines generate the static site and publish to Azure storage. This tutorial comes in two parts. Part two will cover configuring auto-renewing LetsEncrypt SSL certs, Azure DNS, and Azure CDN.
 
 Pre-requisites:
