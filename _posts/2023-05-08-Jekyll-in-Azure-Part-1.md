@@ -9,7 +9,21 @@ This is the first in a series of posts around deploying a Jekyll site to Azure s
 
 The end goal is to be able to edit the site locally, sync changes to an Azure DevOps repository and have CI/CD pipelines generate the static site and publish to Azure storage. This tutorial comes in two parts. Part two will cover configuring auto-renewing LetsEncrypt SSL certs, Azure DNS, and Azure CDN.
 
-Pre-requisites:
+### Credits
+
+This builds on the work of others, most notably:
+
+> Matt Allford on YT:  
+> [https://www.youtube.com/watch?v=MX-7rVL7088](https://www.youtube.com/watch?v=MX-7rVL7088){:target="_blank"}  
+
+> Sam Cogan:  
+> [https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/](https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/){:target="_blank"}  
+
+> Gunnar Peipman:  
+> [https://gunnarpeipman.com/jekyll-azure-static-website/](https://gunnarpeipman.com/jekyll-azure-static-website/){:target="_blank"}  
+
+
+### Pre-requisites:
 
 A Microsoft Azure subscription - [https://azure.microsoft.com/en-gb/free/](https://azure.microsoft.com/en-gb/free/){:target="_blank"}  
 Jekyll theme – I am using PlainWhite: [https://github.com/samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll){:target="_blank"}  
