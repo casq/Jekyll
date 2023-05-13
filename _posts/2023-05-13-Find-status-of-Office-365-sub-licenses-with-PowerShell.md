@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Find status of an Office 365 sub-license"
+title:  "Find status of an Office 365 sub-license with PowerShell"
 date:   2023-05-13 15:00:00 +0100
 categories: PowerShell
 ---
 
-You may find you need to check the status of an Office 365 sub-license (“service plan” in MS parlance) for a user account.
+You may find you need to check the status of an Office 365 sub-license (“service plan” in MS parlance) for a user account, or list of user accounts.
 
-Recently I had to do this for the phone system sublicense.
+Recently I had to do this for the phone system sublicense. This has the shortcode “MCOEV”.
 
-This has the shortcode “MCOEV”. You can find a list of other shortcodes at:
+You can find a list of other shortcodes at:
 
 > [https://scripting.up-in-the.cloud/licensing/list-of-o365-license-skuids-and-names.html](https://scripting.up-in-the.cloud/licensing/list-of-o365-license-skuids-and-names.html
 ){:target="_blank"}
  
-You will need to amend the AccountSkuID and the sub-license (serviceplan.servicename).
+#### Note: You will need to amend the domain, AccountSkuID and the sub-license (serviceplan.servicename) to match your environment and requirements.
  
 The script is:
  
