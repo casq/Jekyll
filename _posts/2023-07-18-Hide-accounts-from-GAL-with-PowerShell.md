@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hide Accounts From GAL"
+title:  "Hide Accounts From GAL With PowerShell"
 date:   2023-07-18 18:00:00 +0100
 categories: PowerShell ActiveDirectory
 ---
