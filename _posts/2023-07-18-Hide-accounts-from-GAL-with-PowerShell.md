@@ -27,7 +27,7 @@ This will create a list of all users who have "-test" in their display name and 
 
 To import the checked csv:
 
-    $users = Import-CSV -Path C:\Users\andy\Desktop\userlist.csv
+    $users = Import-csv -Path C:\Users\andy\Desktop\userlist.csv
 
 To set multiple accounts' msExchHideFromAddressLists to true:
 
