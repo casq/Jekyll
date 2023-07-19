@@ -12,6 +12,7 @@ Microsoft Certification: Azure Administrator Associate (AZ-104)
 Microsoft Certification: Azure Security Engineer (AZ-500)  
 
 Microsoft Training: Developing Solutions for Azure (AZ-204)  
+Microsoft Training: Azure Solutions Architect (AZ-305)
 
 ITIL v4 Certification
 
