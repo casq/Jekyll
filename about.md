@@ -42,10 +42,13 @@ Azure SQL/ElasticPools
 SPF/DKIM/DMARC  
 
 ### Recent projects:
-- Used Terraform to automate deployment of IaC (VMs/vNets/NSGs)  
-PowerShell scripted migration of ~2500 users from on-prem Mitel to Teams Voice  
-Creation of Enterprise Apps/App Registrations for SAML SSO  
-Configured SPF, DKIM and DMARC for multiple domains  
+- Migrating/upgrading a fleet of 2012 R2 servers 
+Create Terraform templates to deploy Dev/Test IaC environments
+PS-scripted migration of ~2500 users from on-prem Mitel to Teams Voice
+Create Enterprise Apps/App Registrations for SAML SSO
+Set up SPF, DKIM and DMARC for multiple domains
+Create Conditional Access rules to improve organisational security
+
   
 
 ## Current and Previous Roles  
