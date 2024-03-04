@@ -19,7 +19,6 @@ The pipeline deployment code is from:
 ](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/add-template-to-azure-pipelines?tabs=CLI
 ){:target="_blank"} 
 
-
 This walkthrough assumes you have set up and configured your DevOps organisation, project and service connection.
 
 ### The Repo
