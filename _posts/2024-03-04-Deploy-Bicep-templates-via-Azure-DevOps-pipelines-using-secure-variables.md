@@ -100,4 +100,4 @@ azure-pipeline.yml now reads:
           az group create --name $(resourceGroupName) --location $(location)
           az deployment group create --resource-group $(resourceGroupName) --template-file $(templateFile) --parameters adminUsername="$(adminUN)" adminPassword="$(adminPASS)"
 
-Now the deployment will complete without needing any sensitive information in the template.
+Now the deployment will complete without exposing any sensitive information in the template.
