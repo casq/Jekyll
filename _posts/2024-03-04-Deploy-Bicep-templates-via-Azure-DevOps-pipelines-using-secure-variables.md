@@ -65,7 +65,7 @@ Running this results in an error due to missing ‘adminUsername’ and ‘admin
 ![](/assets/images/Bicep_Deploy/Pipeline_Error.png){:class="img-responsive"}{:width="80%"}
 
 To fix this, browse to the pipeline -> Edit
- Select ‘Variables’ and add two, one called adminUN and the other called adminPASS
+Select ‘Variables’ and add two, one called adminUN and the other called adminPASS
 
 If required, select ‘Keep this value secret’ and allow users to override the value.
 
