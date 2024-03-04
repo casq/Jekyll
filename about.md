@@ -51,16 +51,32 @@ Create Conditional Access rules to improve organisational security
 
 ## Current and Previous Roles  
 
-### Cloud Infrastructure Engineer – Since April 2021
+### Senior Cloud Infrastructure Engineer - Since August 2023
+Responsibilities:
+- Scripted automation & deployment with PowerShell/Bicep/Terraform 
+DevOps repos and CI/CD Pipelines 
+Completed BAU SRs, Incidents and CRs within SLAs  
+Troubleshooting complex issues  
+Azure Storage (Including Azure NetApp Files)  
+Azure SQL/ElasticPool  
+Documenting processes and providing ‘howtos’ for other team members  
+SME for Teams Voice  
+Backups (VMs/Storage/SQL/DBs)  
+VM administration  
+Azure Virtual Desktop  
+IAM roles  
+Supervision and guidance of junior members of the team  
+
+### Cloud Infrastructure Engineer – April 2021 to August 2023
 Responsibilities:  
-- Responding to Service Requests and Incidents  
+- Service Requests, Incidents and Change Requests  
 Troubleshooting complex issues  
 Azure NetApp administration  
 SQL/ElasticPool administration  
 Documenting processes and providing ‘howtos’ for other team members  
 SME for Teams Voice  
-Monitoring backups (VMs and SQL/DBs)  
-ASM and ARM VM administration  
+Configure and maintain backups (VMs and SQL/DBs)  
+VM administration  
 RDS collections and Remote Apps  
 
 ### Systems Administrator – May 2016 to April 2021
